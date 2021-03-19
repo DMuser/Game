@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Дмитрий\Downloads\Hells_Mesev (1)\Hells_Mesev\Hells_Mesev\Source.cpp(30,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Hells_Mesev.vcxproj -> C:\Users\Дмитрий\Downloads\Hells_Mesev (1)\Hells_Mesev\Debug\Hells_Mesev.exe

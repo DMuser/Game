@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\GAME\Desktop\УНИВЕР\ХЕЛЬМЕСЕВО\Hells_Mesev\Hells_Mesev\Source.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\GAME\Desktop\УНИВЕР\ХЕЛЬМЕСЕВО\Hells_Mesev\Hells_Mesev\Source.cpp(25,7): warning C4101: savename: неиспользованная локальная переменная
+  Создание кода
+  3 of 40 functions ( 7.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Hells_Mesev.vcxproj -> C:\Users\GAME\Desktop\УНИВЕР\ХЕЛЬМЕСЕВО\Hells_Mesev\Release\Hells_Mesev.exe
